@@ -35,6 +35,6 @@ brownie run --network goerli scripts/get_data.py
 
 ## Footnote
 
-Check me out on [@AyazAbbas_](https://twitter.com/AyazAbbas_) | [LinkedIn Ayaz Abbas](https://www.linkedin.com/in/ayaz-abbas/)
+Check me out [@AyazAbbas_](https://twitter.com/AyazAbbas_) | [LinkedIn Ayaz Abbas](https://www.linkedin.com/in/ayaz-abbas/)
 
-Got a Web3 idea but don't know if it's viable or how to build it? CharlieDAO can help validate your idea and help you get it built, check us out: on [@charliedao_eth](https://twitter.com/charliedao_eth) | [CharlieDAO Discord](https://discord.gg/zyRCeJnF69)
+Got a Web3 idea but don't know if it's viable or how to build it? CharlieDAO can help validate your idea and help you get it built, check us out [@charliedao_eth](https://twitter.com/charliedao_eth) | [CharlieDAO Discord](https://discord.gg/zyRCeJnF69)

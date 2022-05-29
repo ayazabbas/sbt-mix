@@ -13,7 +13,9 @@ def mint():
     address = input("Recipient Address: ")
     token_uri = input("Token URI: ")
 
-    contract = SBTExperimental.mint(address, token_uri, {"from": account})
+    SBTExperimental.mint(address, token_uri, {"from": account})
+
+    print(f"Minted SBT: {contract.getSBT(address)}")
 
 
 def main():

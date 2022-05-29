@@ -22,9 +22,9 @@ Mint SBT
 brownie run --network goerli scripts/mint.py
 ```
 
-Show Data
+Get a Soul's SBT
 ```
-brownie run --network goerli scripts/get_data.py
+brownie run --network goerli scripts/get_sbt.py
 ```
 
 ## ToDo

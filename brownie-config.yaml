@@ -1,0 +1,5 @@
+dotenv: .env
+
+wallets:
+  account_1: ${PRIVATE_KEY_1}
+  # account_2: ${PRIVATE_KEY_2} # required for unit tests
